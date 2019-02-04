@@ -60,7 +60,7 @@ int main() {
 				while (guess != number)
 				{
 					//if guess was higher
-					if (guess > number)
+					if (guess > number) 
 					{
 						//increment Hnum
 						++Hnum;
