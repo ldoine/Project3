@@ -57,7 +57,7 @@ int main() {
 				cout << "Find the correct location guess between 1-64. ";
 				cin >> guess;
 				//while guess does not = number
-				while (guess != number)
+				while (guess != number) 
 				{
 					//if guess was higher
 					if (guess > number) 
